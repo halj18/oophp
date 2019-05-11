@@ -1,27 +1,32 @@
 ---
-title: "Min fina titel"
+title: "halj18's fina titel"
 ---
-Min me-sida i kursen oophp
+halj18's me-sida i kursen oophp
 =========================
 
 Detta innehåll är skrivet i markdown och du hittar innehållet i filen `content/index.md`.
 
-[FIGURE src="image/me.jpg?w=400&a=4,27,11,0&cf&sharpen" class="right" caption="Bild på mig, ätandes glass och hållandes ett kort på någon jultillställning."]
+[FIGURE src="image/vidrodret.jpg?w=218" class="right" caption="Hans vid rodret på en turistbåt utanför Hobart"]
 
-Detta är min me-sida i kursen. Denna sidan innehåller en presentation av mig själv. Underhåll denna sidan under hela kursen och uppdatera den efter hand och behov.
+Detta är halj18's me-sida i kursen. Denna sidan innehåller en presentation av mig själv. Underhåll denna sidan under hela kursen och uppdatera den efter hand och behov.
 
-Så, en presentation en bra början. Skriv några ord om dig själv. Jag börjar.
+Åter lånar jag min egen tidigare presentation, kanske kommer den i nytt ljus här.
 
-Mitt namn är Mikael Roos. Född och uppvuxen i Bankeryd, Småland, strax utanför Jönköping, i ett villaområde som byggdes upp samtidigt som vi flyttade in där. Jag gillade landhockey och har spelat bandy och hockey samt gått bowlinggymnasiet i Nässjö. Jag har varit städare, diskare, kallskänka, servitör och kock. På ett bananskal landade jag i Ronneby när jag började högskolan 1990 där och nu är jag kvar med fru, barn och så vidare.
+Om Hans Ljungberg
+=================
 
-Programmering har alltid intresserat mig sedan 13-årsåldern och min första dator var en Spectravideo 328 med bandspelare.
+Arbetat mest som bibliotekarie och biblioteksassistent på högskole- och specialbibliotek. Sedan 2011 och fram till dess nedläggning på Statistiska centralbyråns bibliotek, bl.a. med digitalisering av historisk statistik. [historisk statistik](http://www.scb.se/sv_/Hitta-statistik/Historisk-statistik/).
 
-Om jag skall nämna någon hobby, förutom webbprogrammering, så får det bli att bära sten på sommarstugetomten, och det finns sten så det räcker och blir över.
+**Några tidiga datorerfarenheter:** Första mötet med en dator var mycket kort på gymnasiet. Under extrajobb gjort tillägg till ett elevdataregister i Basic på en ABC80. Den första egna dator var en Mac Plus med diskettenhet. Senare mest PC-baserat med olika Microsoft OS. Återanvänt äldre PC med linux RedHat som webbterminaler för biblioteksbesökares Librissökningar.
 
-Till och från får jag för mig att börja på lite hobbies, ett år satsade jag på pokerspel, ett annat år var det geocaching, sedan turfing och nu på sistone verkar släktforskning lite spännande. Annars kan jag alltid koda på något av mina opensource-projekt, det finns och blir över.
+**Musik** Tidigare mest klassisk musik, ganska flitig konsertbesökare, orkestermusik, opera, kammarmusik och solister. Musikvetenskapliga studier. Numer är det mest blues som gäller - både då jag lyssnar, live eller inspelningar, eller spelar själv. Under några år aktiv i Stockholms bluesförening. Piano är huvudinstrument men jag försöker mig även på gitarr och munspel.
 
-Vill du läsa mer om vad jag jobbat med så kan du kika på min [Linkedin-profil](https://www.linkedin.com/in/pt90mr/).
+**Bilar** Ett passivt intresse från tidiga tonåren som aktiverades med körkortet och den första egna bilen. Läser om den egna bilen och gör enklare underhåll själv. Brukar besöka bilmuséer om de kommer i resans väg. Häftigaste åkturen (fick tyvärr inte köra) hittills är med en Porsche GT2RS på Gotland ring. Bilprogram på TV och youtube som Biltokig, TopGear, Car S.O.S., klassiska bilar, Jay Leno's garage, Harry's garage, och motorsport i form av WRC och F1 på SVT och TV10.
 
-Vi syns och hörs i forum och chatt!
+**Resor** Väljer oftast att köra mindre vägar. Några fina resor med egen bil i Norden, och en längre mini-grand tour över Danmark, Tyskland, Österrike, Schweiz, Italien, Frankrike. Annars blir det hyrbil som i Portugal, Spanien, Skottland, Wales, England, Kalifornien, Hawaii, Australien. En kort resa till Utrecht för att höra C. W. Stoneking.
 
-/Mikael
+**Träning** Försöker hålla mig i form med styrketräning och löpning (snarare joggning) eller badminton. Minskad mängd för att få mer tid till studierna (tänkt en återbyggnadsfas då studierna är klara), vilket straffat sig tydligast genom en sträckt vad i samband med badminton. Blir tvungen öka dosen något samt köra rehab för hälsenor/vader.
+
+**Båt och skärgård** Tycker om att vara på sjön, men har ingen egen båt, åker tacksamt med andra eller på passagerarbåt.
+
+[![Hans Ljungberg på linkedIn](img/Hans-byline.png)](https://www.linkedin.com/in/hans-ljungberg-997250161)

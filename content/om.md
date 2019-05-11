@@ -4,7 +4,7 @@ views:
         region: sidebar-right
         template: anax/v2/block/default
         data:
-            meta: 
+            meta:
                 type: single
                 route: block/om-kursrepo
 
@@ -12,7 +12,7 @@ views:
         region: sidebar-right
         template: anax/v2/block/default
         data:
-            meta: 
+            meta:
                 type: single
                 route: block/om-redovisa
 ---
@@ -25,4 +25,4 @@ Skriv några kloka ord om kursen?
 
 Lägg till en fin och representativ bild för kursen, enligt ditt eget val.
 
-[FIGURE src=image/car.png?w=740&filter=grayscale&f1=colorize,0,30,0,0 caption="En fin bil som demobild, lite oklart hur den är representativ, men ändå..."]
+[FIGURE src=image/ramverk.jpg?w=740 caption="Chassit till en fin bil som demobild, eftersom det är klart att jag inte är klar med oophp."]
