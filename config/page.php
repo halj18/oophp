@@ -46,8 +46,10 @@ return [
             "data" => [
                 "homeLink"      => "",
                 "siteLogoText"  => "oophp",
-                "siteLogoTextIcon" => "image/theme/leaf_40x40.png",
-                "siteLogoTextIconAlt" => "Löv-bild",
+                "siteLogoTextIcon" => "image/halj18Logo_40x40.png",
+                "siteLogoTextIconAlt" => "HaLj18-logga",
+                //"siteLogoTextIcon" => "image/theme/leaf_40x40.png",
+                //"siteLogoTextIconAlt" => "Löv-bild",
             ],
         ],
         [
